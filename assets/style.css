@@ -178,3 +178,8 @@ footer .socials { display: flex; justify-content: center; flex-wrap: wrap; gap: 
 .copy-row { display: inline-flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; justify-content: center; }
 .copy-btn { font: inherit; font-size: 0.85rem; background: none; color: var(--smoke); border: 1px solid var(--stone); padding: 0.1em 0.6em; cursor: pointer; }
 .copy-btn:hover { color: var(--gold); border-color: var(--gold-dim); }
+
+/* Release artwork (transparent illustration, no frame) */
+.art { width: 100%; max-width: 100%; }
+.art img { width: 100%; height: auto; margin: 0 auto; }
+@media (max-width: 560px) { .release .art { max-width: 15rem; margin: 0 auto; } }
