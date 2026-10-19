@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" role="img" aria-label="Crypticon logo placeholder">
+  <!-- PLACEHOLDER LOGO: replace this file (assets/logo.svg) with the real band logo.
+       A transparent PNG works too: save it as assets/logo.png and update the <img> on index.html. -->
+  <rect x="2" y="2" width="596" height="336" fill="none" stroke="#6e5a33" stroke-width="2" stroke-dasharray="10 8"/>
+  <g transform="translate(300 120)" fill="none" stroke="#b8954f" stroke-width="1.6">
+    <circle r="78"/>
+    <circle r="70" stroke-width="0.8"/>
+    <polygon points="0,-70 54.7,43.6 -68.2,-15.6 68.2,-15.6 -54.7,43.6 0,-70" transform="rotate(180)"/>
+    <line x1="0" y1="-92" x2="0" y2="92" stroke-width="0.8"/>
+  </g>
+  <text x="300" y="262" text-anchor="middle" fill="#ddd3c2" font-family="'Old English Text MT', 'UnifrakturCook', Georgia, serif" font-size="58" letter-spacing="4">Crypticon</text>
+  <text x="300" y="306" text-anchor="middle" fill="#6e5a33" font-family="Georgia, serif" font-size="15" letter-spacing="6">LOGO PLACEHOLDER</text>
+</svg>
