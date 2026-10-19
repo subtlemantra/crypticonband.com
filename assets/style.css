@@ -35,7 +35,7 @@ body {
   padding-right: max(16px, env(safe-area-inset-right, 0px));
   -webkit-font-smoothing: antialiased;
 }
-img { max-width: 100%; display: block; }
+img { max-width: 100%; height: auto; display: block; }
 a { color: var(--gold); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 a:hover { color: var(--bone); }
 :focus-visible { outline: 1px solid var(--gold); outline-offset: 3px; }
